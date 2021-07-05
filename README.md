@@ -1,5 +1,5 @@
 # console.log('Hello World!! 👋')
-Currently working at Microsoft. I'm a developer and **creator of Vida MRR**, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: Javascript, Typescript, Node.js, Azure, PHP and Kotlin.
+Software engineer at Microsoft and **creator of Vida MRR**, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: Javascript, Typescript, Node.js, Azure, PHP and Kotlin.
 
 You can follow me in the next sites/platforms where I constantly publish new content 😊
 - 📺 [Vida MRR Youtube channel](https://www.youtube.com/channel/UCOD6LXgeBoeiUZTsPLdG-0g)
